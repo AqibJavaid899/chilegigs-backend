@@ -1,0 +1,15 @@
+DBUSER = 'fabian'
+DBPASS = 'sabrinalabruja'
+DBHOST = 'localhost'
+DBPORT = '3306'
+DBNAME = 'final_project'
+
+JWT_SECRET_KEY = 'b2a12d5f0a7bb60502abac9855758afb'
+
+MAIL_SERVER = 'smtp.gmail.com'
+MAIL_PORT = 587
+MAIL_USE_SSL = 'False'
+MAIL_USE_TLS = 'True'
+MAIL_DEBUG = 'True'
+MAIL_USERNAME = "chilegigs@email.com"
+MAIL_PASSWORD = "Chilegigs2020"
